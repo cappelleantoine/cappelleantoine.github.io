@@ -1,0 +1,22 @@
+
+h1 {
+    color: cornflowerblue;
+}
+h2 {
+    color: darkslateblue
+}
+jsp{
+    line-height: 20px;
+}
+p1{
+    color: darkcyan
+}
+
+body {
+width: 600px;
+margin: 0 auto;
+background-color: antiquewhite ; 
+padding: 0  20px 10% 20px;
+border: 20px solid black;
+}
+
